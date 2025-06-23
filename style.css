@@ -5,6 +5,11 @@ body{
     margin: 0px;
 }
 
+header{
+    border-bottom: 2px dashed rgb(42,122,228);
+    padding: 20px;
+}
+
 h1{
     font-size: 35px;
 }
@@ -13,7 +18,9 @@ p{
     font-size: 20px;
 }
 
-header{
-    border-bottom: 2px solid rgb(42,122,228);
-    padding: 20px;
+section{
+    background-color: orangered;
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
+
