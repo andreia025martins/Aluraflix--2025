@@ -47,6 +47,13 @@ img{
 
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 1px solid pink;
+    border: 1px s
+    
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
 }
 
